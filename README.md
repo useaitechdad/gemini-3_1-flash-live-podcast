@@ -1,8 +1,11 @@
 # 🎙️ AI Talks — Gemini 3.1 Flash Live (Dual-Agent Podcast)
 
+📺 **Watch the Demo:** [AI Talks — Gemini 3.1 Flash Live Podcast](https://youtu.be/EbJ2NeRcJtk)
+
 **🍏 macOS Only (Out of the Box):** This project relies on the [BlackHole](https://existential.audio/blackhole/) virtual audio driver for native zero-latency audio routing, which is specific to macOS. *(To run this on Windows, you will need to adapt the `INPUT_DEVICE` and `OUTPUT_DEVICE` in the script to point to an alternative virtual audio router like [VB-Cable](https://vb-audio.com/Cable/) or Virtual Audio Cable).*
 
 A recursive audio loop between two independent Google Gemini 3.1 Flash Live instances. One AI's voice output becomes the other AI's physical microphone input, creating a real, unscripted, native voice conversation.
+
 
 ## ⚡ What is Gemini 3.1 Flash Live?
 
